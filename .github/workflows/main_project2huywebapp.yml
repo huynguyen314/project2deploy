@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'project2huywebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A17D08E532F24BA495F07435CC05A269 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18BAF8F62C3C44658318FA8BC6C95B39 }}
